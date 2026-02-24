@@ -7,9 +7,14 @@ readme.MD
 
 Skolnet
 
-Namn på alla deltagare:
- 
+# Namn på alla deltagare:
 Gustaf Stolt
+LBS Kungsbacka
+AWU-23
+
+# Ansvarig lärare: 
+Magnus Kindblom
+magnus.kindblom@ga.lbs.se
 
 ### Tävlar i kategori: 
 
@@ -188,4 +193,42 @@ Följande bibliotek används:
 
  5. Inloggning elev: Användarnamn: gustafstolt | Lösenord: 456
     Inloggning lärare: Användarnamn: magnus | Lösenord: 456
-    
+
+### Källor och Licenser
+
+1) Bootstrap 5
+ * Källa: Bootstrap (twbs/bootstrap)
+ * Licens: MIT License
+ * Bekräftelse: MIT-licensen tillåter användning, ändring och distribution (även kommersiellt) så länge copyright- och licenstext behålls. Får därmed användas i       tävlingssammanhang.
+ * Källa: https://getbootstrap.com/
+ * Licens: https://github.com/twbs/bootstrap/blob/main/LICENSE
+   
+2) Bootstrap Icons
+ * Källa: Bootstrap Icons (twbs/icons)
+ * Licens: MIT License
+ * Bekräftelse: MIT-licensen tillåter användning, ändring och distribution (även kommersiellt) med bibehållen licens/copyright. Får användas i tävlingssammanhang.
+ * Källa: https://icons.getbootstrap.com/
+ * Licens: https://github.com/twbs/icons/blob/main/LICENSE
+
+3) Supabase (databas + API)
+ * Källa: Supabase (supabase/supabase) samt Supabase Docs
+ * Licens: Apache License 2.0
+ * Bekräftelse: Apache 2.0 tillåter användning, modifiering och distribution (även kommersiellt) med krav på att licens- och notice-villkor följs. Får användas i tävlingssammanhang.
+ * Källa: https://supabase.com/
+ * Licens: https://github.com/supabase/supabase/blob/master/LICENSE
+
+4) Node.js (runtime för backend)
+ * Källa: Node.js (nodejs/node)
+ * Licens: MIT License
+ * Bekräftelse: MIT-licensen tillåter användning och distribution med bibehållen licens/copyright. Får användas i tävlingssammanhang.
+ * Källa: https://nodejs.org/
+ * Licens: https://github.com/nodejs/node/blob/main/LICENSE
+
+5) Express (Node.js framework)
+ * Källa: Express (expressjs/express)
+ * Licens: MIT License
+ * Bekräftelse: MIT-licensen tillåter användning, ändring och distribution (även kommersiellt) med bibehållen licens/copyright. Får användas i tävlingssammanhang.
+ * Källa: https://expressjs.com/
+ * Licens: https://github.com/expressjs/express/blob/master/LICENSE
+
+
